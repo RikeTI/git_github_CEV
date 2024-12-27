@@ -23,5 +23,13 @@
 - [x] Criar página principal
 - [] Criar página de Compras
 - [] Criar langpage
+---
 
+## Tabelas
+
+Num | Nome | Nota
+--- | --- | ---
+1 | Rike | 9,0
+2 | Elysia | 10
+3 | Spell | 8,5
 
