@@ -33,3 +33,15 @@ Num | Nome | Nota
 2 | Elysia | 10
 3 | Spell | 8,5
 
+---
+
+## Destaques (para comandos, por exemplo)
+Ex.: Não entendi o comando `document.getIdElementById()` de JS.
+Ex.: Código valor par-ímpar em python:
+```
+num = int(input('Informe um número: '))
+if num % 2 == 0:
+    print(f'{num} é par')
+else:
+    print(f'{num} é ímpar')
+```
