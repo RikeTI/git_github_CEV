@@ -12,12 +12,16 @@
 "Número qualquer" + "." (Não precisa estar em ordem)
 1. Teste
 2. Teste2
+   1. NovoTeste (precisa começar por "1")
 200. Teste3
-#### Lista Não Numerada
-"*" + "espaço": item da lista
-* Teste4: item da lista
-  * NovoTeste: subitem da lista
-* Teste5
-#### Lista
+#### Lista Demarcada (Não Numerada)
+"*" ou "-" + "espaço": item da lista
+- Teste4: item da lista
+  - NovoTeste2: subitem da lista
+- Teste5
+#### Lista de Tarefas
+- [x] Criar página principal
+- [] Criar página de Compras
+- [] Criar langpage
 
 
