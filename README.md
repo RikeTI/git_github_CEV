@@ -1,2 +1,2 @@
-# git_github_CEV
- Curso de Git-GitHub do Curso em Vídeo
+# Curso Grátis de Git e GitHub
+Material do **Curso de Git e GitHub**, disponível gratuitamente no canal do *YouTube*.
